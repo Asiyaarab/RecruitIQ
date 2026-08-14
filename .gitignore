@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+reports/*
+!reports/.gitkeep
+
+resumes/*
+!resumes/.gitkeep
+
+scorecards/*
+!scorecards/.gitkeep

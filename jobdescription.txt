@@ -1,0 +1,54 @@
+Job Title: AI/ML Engineer
+
+We are seeking a talented and motivated AI/ML Engineer to join our team. The ideal candidate should have strong experience in machine learning, deep learning, data analysis, and software development. The candidate will be responsible for developing, training, and deploying machine learning models and collaborating with cross-functional teams to deliver AI-driven solutions.
+
+Required Skills:
+
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+Data Analysis
+Data Science
+SQL
+Git
+GitHub
+Docker
+Linux
+REST API
+
+Preferred Skills:
+
+FastAPI
+Flask
+AWS
+Azure
+Kubernetes
+Matplotlib
+Seaborn
+
+Responsibilities:
+
+- Design, develop, and deploy machine learning models.
+- Build and maintain data pipelines.
+- Perform data preprocessing and feature engineering.
+- Train, evaluate, and optimize AI/ML models.
+- Work with large datasets and perform data analysis.
+- Collaborate with software engineers and data scientists.
+- Implement APIs for model serving.
+- Monitor and improve model performance.
+- Use version control tools such as Git and GitHub.
+- Deploy applications using Docker and cloud platforms.
+
+Qualifications:
+
+- Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+- Strong understanding of machine learning algorithms and deep learning techniques.
+- Experience with TensorFlow, PyTorch, and Scikit-learn.
+- Familiarity with cloud platforms such as AWS or Azure.
+- Knowledge of Linux environments and containerization tools like Docker.
+- Excellent problem-solving and analytical skills.
