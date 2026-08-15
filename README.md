@@ -2,6 +2,8 @@
 
 RecruitIQ is an AI-powered Resume Screening Agent built using Python and Streamlit.
 
+![Dashboard screenshot](docs/dashboard-screenshot.png)
+
 ## Features
 
 - Upload multiple resumes
